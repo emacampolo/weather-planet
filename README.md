@@ -1,4 +1,8 @@
-### Este repositorio contiene la implementación del siguiente ejercicio:
+### La implementación del ejercicio descrito más abajo se encuentra deployada en Heroku en la siguiente URL:
+
+https://young-springs-94127.herokuapp.com/swagger-ui.html
+
+### Ejercicio:
 
 En una galaxia lejana, existen tres civilizaciones. Vulcanos, Ferengis y Betasoides. Cada civilización vive en paz en su respectivo planeta.
 Dominan la predicción del clima mediante un complejo sistema informático. A continuación el diagrama del sistema solar.
